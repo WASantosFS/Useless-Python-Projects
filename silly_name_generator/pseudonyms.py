@@ -10,7 +10,6 @@ Pseudocode:
     Assign the name to a variable
     Choose a surname at random
     Assign the name to a variable
-    4 Chapter 1
     Print the names to the screen in order and in red font
     Ask the user to quit or play again
     If user plays again:
